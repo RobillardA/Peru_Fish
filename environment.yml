@@ -1,4 +1,4 @@
-name: see_turtles
+name: Peru_Fish
 channels:
   - fastai
   - conda-forge
@@ -7,4 +7,4 @@ dependencies:
   - fastai=2.3
   - pillow=8.2
   - ipywidgets=7.6
-prefix: /Users/triznam/miniconda3/envs/see_turtles
+prefix: /Users/triznam/miniconda3/envs/Peru_Fish
